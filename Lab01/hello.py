@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print("Hello, "+ name + "!")
+course = input("What Course are you doing? ")
+print("Wow "+ course + " thats cool")
+favArea = input("Whats your favourite thing about " + course + "?")
+print("Thats really interesting")

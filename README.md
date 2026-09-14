@@ -1,1 +1,1 @@
-# Scripting
+This repository contains my practical work for the Scripting for Cybersecurity module
