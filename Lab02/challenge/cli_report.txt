@@ -1,0 +1,6 @@
+CyberSecurity CLI Report
+User : Eoin 
+Host : codespaces-4a5257 
+Directory : /workspaces/Scripting/Lab02/challenge  
+Python : /home/codespace/.python/current/bin/python3 
+Filenames with Python found : 6 
