@@ -1,0 +1,8 @@
+Linux CLI Revision Report
+User : Eoin
+Host : hostname
+Directory : /workspaces/Scripting/revision01
+Shell :  which /bin/bash
+Python :  which python3
+Enviornment variables : 92
+Python Related filenames : 6
